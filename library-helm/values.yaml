@@ -16,7 +16,7 @@ ingress:
 #  annotations:
 #    cert-manager.io/cluster-issuer: letsencrypt-prod
   hosts:
-    - host: library.horizon-workspaces.com
+    - host: ahmedhajji.horizon-workspaces.com
       paths:
         - path: /
           pathType: ImplementationSpecific
